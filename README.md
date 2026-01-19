@@ -166,11 +166,3 @@ AI / OCR / Document Intelligence
 
 ---
 
-If you want, I can next:
-
-* Add screenshots to README
-* Add architecture diagram
-* Convert this into a reusable Python package
-* Create a demo notebook
-
-Just tell me.
