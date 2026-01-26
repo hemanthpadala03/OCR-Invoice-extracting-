@@ -16,7 +16,6 @@ reader = easyocr.Reader(['en'], gpu=False)
 # print("Full Image")
 results = reader.readtext(IMAGE_PATH)
 
-
 lines = [t.strip() for _, t, _ in results if t.strip()]
 
 def is_num(x):
